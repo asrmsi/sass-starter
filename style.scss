@@ -9,4 +9,18 @@
 @import "zen/grids";
 // Add Breakpoint for media query management
 @import "breakpoint";
-
+// Typeplate for the type styling it provides
+@import "typeplate";
+// Any homebrewed mixins
+@import "mixins";
+// Structured layouts come now
+@import "skeleton";
+// A lot of general element styling goes here
+@import "global";
+// Section specific element styling goes here
+@import "header";
+@import "content";
+@import "auxilary";
+@import "footer";
+// Some people call it shame, this is my SASS junk drawer.
+@import "junk";
