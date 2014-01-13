@@ -1,0 +1,14 @@
+{
+  "name": "zen-grids",
+  "homepage": "https://github.com/JohnAlbin/compass-zen-grids",
+  "_release": "0bfca3cae7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "0bfca3cae75a0aa81e63b0bb5d726016aa6c3c22"
+  },
+  "_source": "git://github.com/JohnAlbin/compass-zen-grids.git",
+  "_target": "*",
+  "_originalSource": "zen-grids",
+  "_direct": true
+}
