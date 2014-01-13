@@ -2,11 +2,11 @@ SASS Starter
 ================================
 I start most of my projects with this stuff:
 
-- [Compass][http://compass-style.org/]
-- [Normalize.css][http://necolas.github.io/normalize.css/]
-- [Zen-Grids][http://zengrids.com/]
-- [Breakpoint][http://breakpoint-sass.com/]
-- [Typeplate][http://typeplate.com/]
+- [Compass](http://compass-style.org/)
+- [Normalize.css](http://necolas.github.io/normalize.css/)
+- [Zen-Grids](http://zengrids.com/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Typeplate](http://typeplate.com/)
 
 Caveat
 ================================
