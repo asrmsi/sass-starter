@@ -1,6 +1,0 @@
-// SASS Starting Point
-// Start with normalize
-@import "normalize";
-
-// Add a grid system for structure
-@import "zen/grids";
