@@ -2,7 +2,6 @@
 // Colors and Branding
 $page-background: #fff;
 $text-color:	#333;
-
 $brand-color: #f90;
 $accent-color: #9c3;
 $contrast-color: #c30;
@@ -17,3 +16,9 @@ $legacy-support-for-ie7: false;
 $legacy-support-for-ie6: false;
 $zen-auto-include-box-sizing: false; // Errything is already border-boxed in normalize.
 
+// Media Query Breakpoints
+$smallest-breakpoint: 20em;//	320px+		Most cell phones in portrait.
+$small-breakpoint: 33.75em;//	540px+		Phones and small tablets
+$medium-breakpoint: 48em; //	768 px+		Tablets
+$large-breakpoint: 64em; // 	1024 px+	Desktops and large tablets.
+$xlarge-breakpoint: 85.375em; //	1366 px+	Super-duper large stuff.

@@ -5,5 +5,8 @@
 @import "normalize";
 // Import the variables to override any defaults
 @import "variables";
-// Add a grid system for structure
+// Add Zen Grids for structure
 @import "zen/grids";
+// Add Breakpoint for media query management
+@import "breakpoint";
+
