@@ -1,0 +1,19 @@
+// Variables
+// Colors and Branding
+$page-background: #fff;
+$text-color:	#333;
+
+$brand-color: #f90;
+$accent-color: #9c3;
+$contrast-color: #c30;
+$light-neutral: #eee;
+$dark-neutral: #666;
+
+// Grid Settings
+$zen-columns: 12; // Number of columns
+$zen-gutters: 1em; // Gutter size
+$zen-grid-width: 100%;
+$legacy-support-for-ie7: false;
+$legacy-support-for-ie6: false;
+$zen-auto-include-box-sizing: false; // Errything is already border-boxed in normalize.
+

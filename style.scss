@@ -1,0 +1,9 @@
+// SASS Starting Point
+// Get Compass in here for functionality
+@import "compass";
+// Start with normalize
+@import "normalize";
+// Import the variables to override any defaults
+@import "variables";
+// Add a grid system for structure
+@import "zen/grids";
